@@ -1,0 +1,2 @@
+# Object Detection with YOLOv3
+ Object Detection - as quite the name suggests is detecting objects in an image or video through Deep Learning Algorithms. The motive of object detection is to recognize and locate (localize) all known objects in a scene. With this kind of identification and localization, object detection can be used to count objects in a scene and determine and track their precise locations, all while accurately labeling them.
